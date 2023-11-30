@@ -1,0 +1,166 @@
+#header_wrapper{
+ width:100%;
+ background-color:#4c66a4;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header{
+ width:700px;
+ margin:0px auto;
+ padding:0px;
+ height:85px;
+}
+
+#header li{
+ list-style-type:none;
+ float:left;
+ text-align:left;
+ color:white;
+}
+
+
+#header form{
+ margin-top:15px;
+ float:right;
+}
+
+#header form li{
+ font-size:13px;
+ margin-left:15px;
+}
+
+#header form li a{
+ color:#A9BCF5;
+ text-decoration:none;
+}
+
+#header form input[type="text"]{
+ margin-top:3px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;
+}
+
+#header form input[type="password"]{
+ margin-top:3px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;
+}
+
+#header form input[type="submit"]{
+ height:25px;
+ margin-top:20px;
+ background-color:#084B8A;
+ color:white;
+ border:1px solid #08298A;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#wrapper{
+ margin:0 auto;
+ padding:0px;
+ text-align:center;
+ width:980px;
+}
+
+#wrapper div{
+ float:left;
+}
+
+#wrapper #div1{
+ margin-top:30px;
+ width:590px;
+ text-align:left;
+}
+
+#wrapper #div1 p{
+ font-size:20px;
+ font-family:arial;
+ font-weight:bold;
+ margin:0px;
+ color:#0e385f;
+}
+
+
+
+
+
+#Body{
+    
+    padding: 10px;
+    position: absolute;
+    right: 0px;
+    width: 700px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#LogIn{
+    background-color: #638dcc;
+    color: #e4eaec;
+}
+
+#Account{
+    background-color: #5e984b;
+    color: #e4eaec;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #1e3019;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+#Why{
+    color: #41597e;
+}
+
+mark{
+    color: #41597e;
+    background-color: #e4eaec
+
+}
+
+
+
+#birthdaysection{
+    position: relative;
+}
+
+#bdsectionone{
+    position: absolute;
+    left:0px;
+    font-size: 40px;
+}
+
+#bdsectiontwo{
+    
+    position: absolute;
+    left: 180px;  
+}
+
+
+
+
+
+#gendersection{
+    position: relative;
+}
+
+#sectionone{
+    position: absolute;
+    left:0px;
+    font-weight: bold;
+}
+
+#sectiontwo{
+    
+    position: absolute;
+    left: 180px;  
+    font-weight: bold;
+}
